@@ -23,8 +23,8 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 1
   rayMiss:
-    m_OverrideState: 0
-    m_Value: 3
+    m_OverrideState: 1
+    m_Value: 0
   depthBufferThickness:
     m_OverrideState: 0
     m_Value: 0.1
