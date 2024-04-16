@@ -2,7 +2,7 @@
   "dependencies": {
     "com.unity.cloud.draco": "5.1.2",
     "com.unity.cloud.gltfast": "6.2.0",
-    "com.unity.render-pipelines.high-definition": "17.0.2",
+    "com.unity.render-pipelines.high-definition": "17.0.3",
     "jp.keijiro.metamesh": "1.2.0"
   },
   "scopedRegistries": [
